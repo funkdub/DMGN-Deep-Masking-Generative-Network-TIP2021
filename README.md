@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Testing
 
-First, you should select the model of one task in [line 18 eval.py]. 
+First, you should select the model of one task in line 18 eval.py. 
 
 Download the pre-trained models [here](https://drive.google.com/drive/folders/1aOySJ4ndZ0F_GWoMMl6m4Y5dn1Z2v2oC?usp=sharing).
 
