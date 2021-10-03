@@ -1,6 +1,6 @@
 # (TIP2021) Deep-Masking Generative Network: A Unified Framework for Background Restoration from Superimposed Images
 
-Official code for TIP2021 paper: Deep-Masking Generative Network:A Unified Framework for Background Restoration from Superimposed Images.
+Official code for TIP2021 paper: [Deep-Masking Generative Network:A Unified Framework for Background Restoration from Superimposed Images](https://arxiv.org/abs/2010.04324).
 
 Tasks include image reflection removal, image deraining, and image dehazing.
 
